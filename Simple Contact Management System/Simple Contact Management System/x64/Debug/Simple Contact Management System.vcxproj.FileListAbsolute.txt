@@ -1,0 +1,4 @@
+C:\Users\bijay\source\repos\Simple Contact Management System\Simple Contact Management System\x64\Debug\Simple Contact Management System.vcxproj.AssemblyReference.cache
+C:\Users\bijay\source\repos\Simple Contact Management System\Simple Contact Management System\x64\Debug\SimpleContactManagementSystem.SimpleContactManagementSystem.resources
+C:\Users\bijay\source\repos\Simple Contact Management System\Simple Contact Management System\x64\Debug\Simple Contact Management System.vcxproj.GenerateResource.cache
+C:\Users\bijay\source\repos\Simple Contact Management System\Simple Contact Management System\x64\Debug\Simple C.D165B84D.Up2Date
